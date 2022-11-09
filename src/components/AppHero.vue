@@ -1,3 +1,9 @@
+<script>
+export default {
+    name: 'AppHero'
+}
+</script>
+
 <template>
 
     <section class="jumbotron">
